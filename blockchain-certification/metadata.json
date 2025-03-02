@@ -1,0 +1,10 @@
+{
+    "name": "My Local NFT",
+    "description": "This is an NFT stored locally",
+    "image": "http://localhost:3000/nft-image.png",
+    "attributes": [
+      { "trait_type": "Background", "value": "Blue" },
+      { "trait_type": "Rarity", "value": "Legendary" }
+    ]
+  }
+  
